@@ -213,14 +213,14 @@
       "sourceName": "City of Ottawa · Public engagement",
       "sourceURL": "https://ottawa.ca/en/city-hall/public-engagement",
       "relatedIDs": [
-        "TEST- My first live YES AND. update",
+        "street-seats",
         "kent-feedback"
       ]
     },
     {
       "id": "street-seats",
       "section": "Have Your Say",
-      "title": "What happened to the Street Seats pilot?",
+      "title": "TEST - My First Live YES AND. Update.",
       "eyebrow": "Public space · 2026 season ended",
       "place": "Centretown",
       "ward": 14,
